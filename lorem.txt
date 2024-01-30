@@ -1,0 +1,1 @@
+Esto es un texto random para la pratica2 del Paso1 de Git para el Meli Bootcamp Java
